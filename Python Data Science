@@ -1,1 +1,3 @@
 print("test")
+Letters="ABCDEFGHIJK"
+Letters[0:4]
